@@ -76,10 +76,6 @@
    background-image: url('../../assets/img/icons/email.svg');
 }
 
-.information .phone::before {
-   background-image: url('../../assets/img/icons/phone.svg');
-}
-
 @media only screen and (min-width: 768px) {
 
    .header {

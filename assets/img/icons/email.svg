@@ -1,4 +1,7 @@
-<svg width="26" height="23" viewBox="0 0 26 23" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M12.786 7.88194L24.2344 0.618719C23.6943 0.228657 23.0328 0 22.3173 0H3.24127C2.52575 0 1.86423 0.228657 1.32422 0.618719L12.786 7.88194Z" fill="#55569E"/>
-<path d="M13.7839 11.1637C13.5679 11.3251 13.3249 11.4193 13.0684 11.4731H13.0549C13.0144 11.4731 12.9739 11.4865 12.9334 11.4865C12.9199 11.4865 12.8929 11.4865 12.8794 11.4865C12.8524 11.4865 12.8254 11.4865 12.7984 11.4865C12.7714 11.4865 12.7444 11.4865 12.7174 11.4865C12.7039 11.4865 12.6769 11.4865 12.6634 11.4865C12.6229 11.4865 12.5824 11.4731 12.5418 11.4731H12.5283C12.2718 11.4327 12.0288 11.3251 11.8128 11.1637L0 3.69873V5.46073V8.76953V9.53621V19.772C0 21.5609 1.44454 23.0001 3.24009 23.0001H22.3161C24.1117 23.0001 25.5562 21.5609 25.5562 19.772V9.53621V8.76953V5.46073V3.69873L13.7839 11.1637Z" fill="#55569E"/>
-</svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg fill="#E7FFD9" version="1.1" baseProfile="tiny" id="Layer_1" xmlns:x="&amp;ns_extend;" xmlns:i="&amp;ns_ai;" xmlns:graph="&amp;ns_graphs;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" width="800px" height="800px" viewBox="-0.5 0.5 42 42" xml:space="preserve" stroke="#E7FFD9">
+<g id="SVGRepo_bgCarrier" stroke-width="0"/>
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="SVGRepo_iconCarrier"> <path d="M40.5,31.5v-18c0,0-18.2,12.7-19.97,13.359C18.79,26.23,0.5,13.5,0.5,13.5v18c0,2.5,0.53,3,3,3h34 C40.029,34.5,40.5,34.061,40.5,31.5z M40.471,9.971c0-1.821-0.531-2.471-2.971-2.471h-34c-2.51,0-3,0.78-3,2.6l0.03,0.28 c0,0,18.069,12.44,20,13.12C22.57,22.71,40.5,10.1,40.5,10.1L40.471,9.971z"/> </g>
+</svg>

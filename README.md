@@ -1,6 +1,6 @@
 ## 👨‍💻 Desafio de Projeto: Portfólio com HTML, CSS e JS
 Este projeto de Portfólio com HTML, CSS e JS foi proposto pelo expert Renan Johansen no desafio de projeto da Formação JavaScript Developer da DIO.<br>
-Nesse projeto coloquei minhas informações profissionais e alguns projetos em destaque do meu repositório do GitHUb.
+Nesse projeto coloquei minhas informações profissionais e alguns projetos em destaque do meu repositório do GitHub.
 
 ## 💻 Tecnologias usadas
 <div style="display: inline_block">
@@ -36,3 +36,4 @@ Site em um dispositivo menor, como por exemplo um celular:
 ## 📌 Créditos
 - **Assets:** Disponível no protótipo do Figma disponibilizado no curso.
 - **CSS Patterns:** Disponível no site [CSS3 Patterns Gallery](https://projects.verou.me/css3patterns/)
+- **Repositório Usado de Base:** [Marcos Winther](https://github.com/MarcosWinther/project-portfolio-html-css-js)

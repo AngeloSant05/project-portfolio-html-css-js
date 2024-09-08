@@ -12,10 +12,6 @@ function updateProfileInfo(profileData) {
    const location = document.getElementById('profile.location');
    location.innerText = profileData.location;
 
-   const phone = document.getElementById('profile.phone');
-   phone.innerText = profileData.phone;
-   phone.href = `tel:${profileData.phone}`;
-
    const email = document.getElementById('profile.email');
    email.innerText = profileData.email;
    email.href = `mailto:${profileData.email}`;
@@ -45,10 +41,6 @@ function updateProfilePortfolio(profileData) {
    portfolio.innerHTML = profileData.portfolio.map(project => `
       <li>
          <h3 ${project.github ? 'class="github"' : ''}>${project.name}</h3>
-         <span>
-            <strong>Link do GitHub:</strong>
-            <a href="${project.url}" target="_blank">${project.url}</a>
-         </span>
          <span>
             <strong>Link do certificado:</strong>
             <a href="${project.certificate}" target="_blank">${project.certificate}</a>

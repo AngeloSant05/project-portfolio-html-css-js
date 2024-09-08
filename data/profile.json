@@ -7,6 +7,10 @@
   "skills": {
     "hardSkills": [
       {
+        "name": "Git",
+        "logo": "assets/img/tools/git.png"
+      },
+      {
         "name": "GitHub",
         "logo": "assets/img/tools/github.png"
       },
@@ -19,16 +23,12 @@
         "logo": "assets/img/tools/css.png"
       },
       {
-        "name": "Nodejs",
-        "logo": "assets/img/tools/nodejs.png"
+        "name": "Python",
+        "logo": "assets/img/tools/Python.png"
       },
       {
-        "name": "JavaScript",
-        "logo": "assets/img/tools/js.png"
-      },
-      {
-        "name": "Angular",
-        "logo": "assets/img/tools/angular.png"
+        "name" : "MySql",
+        "logo" : "assets/img/tools/mysql.png"
       }
     ],
     "softSkills": [

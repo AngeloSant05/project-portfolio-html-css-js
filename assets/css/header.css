@@ -1,8 +1,3 @@
-@font-face {
-   font-family: 'Neue Machina';
-   src: url('../font/neue-machina-regular.otf');
-}
-
 .header {
    display: flex;
    flex-direction: column;
@@ -31,7 +26,8 @@
 
 .header .title {
    display: flex;
-   font-family: 'Neue Machina';
+   font-family: 'Open Sans', sans-serif;
+   font-weight: lighter;
    text-align: center;
 }
 

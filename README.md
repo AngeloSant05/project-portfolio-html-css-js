@@ -23,7 +23,7 @@ Site em um dispositivo menor, como por exemplo um celular:
   <img src="assets/img/projeto-portfolio-responsive.PNG" alt="Site do Discord em um dispositivo menor, como por exemplo um celular">
 </div>
 
-- Venha ver como ficou o projeto acessando [aqui nesse link do GithubPages](https://marcoswinther.github.io/project-portfolio-html-css-js/)
+- Venha ver como ficou o projeto acessando [aqui nesse link do GithubPages](https://angelosant05.github.io/project-portfolio-html-css-js/)
 
 ## ⚙ Execução desse projeto:
 1. **Clonar Repósitório:** basta utilizar o comando `git clone` para clonar esse projeto e salvar na máquina e depois executar o arquivo `index.html`.
